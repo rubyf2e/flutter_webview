@@ -1,6 +1,6 @@
 # flutter_webview
 
-A new Flutter project.
+單純把這個網站包起來的android的webview
 
 ## Getting Started
 
